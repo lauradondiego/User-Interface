@@ -64,3 +64,93 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.navigation {
+	display: inline-block;
+	padding: 10px 20px 20px 40px;
+	font-size: 16pt;
+}
+
+.logo {
+	margin-left: 15%;
+	top: 18px;
+	right: 20px;
+	position: absolute;
+}
+
+header {
+	display: inline-block;
+    width: 100%;
+	padding: 18px;
+	font-family: bangers, cursive;
+	font-size: 18pt;
+
+}
+
+.circle-img {
+	height: 200%;
+	width: 25%;
+	margin-left: 80%;
+	display: block;
+	vertical-align: baseline;
+}
+
+button {
+	height: 30px;
+	display: block;
+	line-height: 1;
+	vertical-align: baseline;
+}
+
+.middle-img {
+	height: 15%;
+	width: 85%;
+	margin-left: 5%;
+	display: block;
+	vertical-align: baseline;
+}
+
+h3 {
+	font-family: bangers, cursive;
+	font-size: 16pt;
+	display: block;
+	margin-left: 5%;
+	margin-bottom: 15pt;
+	display: inline-block;
+	line-height: 1;
+	vertical-align: baseline;
+	
+}
+
+p {
+	width: 50%;
+	margin-left: 5%;
+	text-align: left;
+	display: block;
+	line-height: 1;
+	vertical-align: baseline;
+	
+}
+
+.contact {
+	vertical-align: -webkit-baseline-middle;
+	display: block;
+	vertical-align: baseline;
+}
+
+footer {
+	margin-left: 30%;
+	display: block;
+	vertical-align: baseline;
+}
+
+.top-content {
+	color:red;
+	display: inline-block;
+	vertical-align: baseline;
+}
+
+.bottom-content {
+	display: inline-block;
+	vertical-align: baseline;
+}
